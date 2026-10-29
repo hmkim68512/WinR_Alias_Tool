@@ -1,0 +1,19 @@
+# 빌드 결과물
+bin/
+obj/
+out/
+dist/
+publish/
+*.zip
+
+# IDE / 에디터
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# OS
+Thumbs.db
+desktop.ini
